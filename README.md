@@ -6,7 +6,7 @@
             for Latent Dirichlet Allocation},
   }
 
-The SCVB0 algorithm is implemeted in C++ and relies heavily on the EIGN matrx library, 
+The SCVB0 algorithm is implemeted in C++ and relies heavily on the EIGEN matrx library, 
 which is included in the include/ folder, and on OpenMP for multi-thread programming.
 
 Quick usage:
